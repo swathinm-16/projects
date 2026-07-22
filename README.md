@@ -108,7 +108,7 @@ pip install -r requirements.txt
 ## ▶️ Run the Application
 
 ```bash
-python gui.py
+python finalgui.py
 ```
 
 ---
@@ -239,9 +239,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Prateek S P**
+**Swathi N M **
 
-Electronics and Communication Engineering (ECE)
+Bachelor Of Computer Appkication (BCA)
 
 Python • Deep Learning • Computer Vision • OpenCV • TensorFlow • CNN
 
