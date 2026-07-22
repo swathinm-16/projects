@@ -1,0 +1,4 @@
+train: C:\Internship\fire and smoke\dataset\train
+val: C:\Internship\fire and smoke\dataset\val
+nc: 2
+names: ["smoke","fire"]
