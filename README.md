@@ -29,8 +29,8 @@ The model classifies MRI images into the following categories:
 - Glioma
 - Meningioma
 - Pituitary Tumor
-- No Tumor
-- Fifth Tumor Category *(Replace with your actual class name if different.)*
+- acoustic neuroma
+- craniopharyngioma*(Replace with your actual class name if different.)*
 
 ---
 
