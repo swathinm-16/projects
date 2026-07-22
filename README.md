@@ -241,7 +241,7 @@ This project is licensed under the MIT License.
 
 **Swathi N M **
 
-Bachelor Of Computer Appkication (BCA)
+Bachelor Of Computer Application (BCA)
 
 Python • Deep Learning • Computer Vision • OpenCV • TensorFlow • CNN
 
